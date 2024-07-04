@@ -13,6 +13,8 @@ Java, C++, Web Development
 ## If you want to help me on any project send an email to
 elite.atencionalcliente(at)gmail.com
 
+![Parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
+
 # My History
 
 I started programming at the pandemic, when my dad told me to learn how to code in Java. Before that I didn't had any coding skill, but I learnt a little but of Java.
