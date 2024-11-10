@@ -12,7 +12,7 @@ I coded a lot of things since then, but here are my fav ones which I made open-s
 
 There are also projects that aren't open-source but they're also cool like:
 - [epi](https://elitees.github.io/epi/)
-- [eCorreo](https://e--cprrep.web.app/)
+- [eCorreo](https://e--correo.web.app/)
 
 
 ## You can ask me about
