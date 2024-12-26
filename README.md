@@ -14,8 +14,6 @@ There are also projects that aren't open-source but they're also cool like:
 - [epi](https://elitees.github.io/epi/)
 - [eCorreo](https://e--correo.web.app/)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=informational&logo=java)
 ## If you want to help me on any project send an email to
 elite.atencionalcliente(at)gmail.com
 
