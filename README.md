@@ -3,6 +3,8 @@ I'm a 13 year old programmer from Spain with 4+ years of experience.
 
 I coded a lot of things since then, but here are my fav ones which I made open-source:
 - [epi²](https://github.com/eLiteEs/epi2)
+- [defLang](https://github.com/eLiteEs/defLang)
+- [Bingo Number Generator](https://github.com/eLiteEs/html-bingo)
 - [dlib](https://github.com/SurfaceSystems/dlib)
 - [C^8](https://github.com/eLiteEs/cb8-2)
 - [LitePlusPlus](https://github.com/SurfaceSystems/LitePlusPlus)
