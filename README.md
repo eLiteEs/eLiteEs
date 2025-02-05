@@ -23,8 +23,8 @@ There are also projects that aren't open-source but they're also cool like:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-41454A?style=for-the-badge&logo=cobol&logoColor=white)
-![FORTRAN](https://img.shields.io/badge/COBOL-41454A?style=for-the-badge&logo=cobol&logoColor=white)
-![VBS](https://img.shields.io/badge/COBOL-41454A?style=for-the-badge&logo=cobol&logoColor=white)
+![FORTRAN](https://img.shields.io/badge/FORTRAN-41454A?style=for-the-badge&logo=cobol&logoColor=white)
+![VBS](https://img.shields.io/badge/VBS-41454A?style=for-the-badge&logo=cobol&logoColor=white)
 
 ## If you want to help me on any project send an email to
 elite.atencionalcliente(at)gmail.com
