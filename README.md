@@ -7,4 +7,4 @@ The reason is basically GitHub has benn giving me a lot of errors lately and AI 
 
 Here you'll find some "trash" projects, if you want more serious stuff, go to Codeberg.
 
-Also I'm open-sourcing some webpages, programs and tools that I had private here.
+Also I'm open-sourcing some webpages, programs and tools that I had private on GitHub.
