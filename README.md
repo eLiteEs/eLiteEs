@@ -8,3 +8,6 @@ The reason is basically that GitHub has been giving me a lot of errors lately, a
 Here you'll find some "trash" projects, if you want to see more serious stuff, go to Codeberg.
 
 Also I'm open-sourcing some webpages, programs and tools that I had private on GitHub.
+
+Open-sourced repositories:
+- [eLiteEs/portfolio](https://github.com/eLiteEs/portfolio)
