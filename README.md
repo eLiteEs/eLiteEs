@@ -11,19 +11,19 @@ Also I'm open-sourcing some webpages, programs and tools that I had private on G
 
 Here you have a list of the things I did to my repositories
 
-| Already open-sourced repositories | Open-sourced repositories | Open-source repositories migrated to Codeberg |
-|-|-|-|
-| https://github.com/eLiteEs/dlib-index | https://github.com/eLiteEs/ranapedia | https://github.com/eLiteEs/mank
-|  | https://github.com/eLiteEs/skippy-term | https://github.com/eLiteEs/portfolio
-|  | https://github.com/eLiteEs/url-lib
-|  | https://github.com/eLiteEs/LoSDK
-|  | https://github.com/eLiteEs/realcoding
-|  | https://github.com/eLiteEs/CatTerm
-|  | https://github.com/eLiteEs/haboshdosh-closed
-|  | https://github.com/eLiteEs/penalti-play
-|  | https://github.com/eLiteEs/blasfdez
-|  | https://github.com/eLiteEs/tablas-api
-|  | https://github.com/eLiteEs/rayos2
-|  | https://github.com/eLiteEs/laqteos
-|  | https://github.com/eLiteEs/nt-tablas
-|  | https://github.com/eLiteEs/ark
+| Open-sourced repositories | Open-source repositories migrated to Codeberg |
+|-|-|
+| [eLiteEs/ranapedia](https://github.com/eLiteEs/ranapedia) | [eLiteEs/mank](https://github.com/eLiteEs/mank) |
+| [eLiteEs/skippy-term](https://github.com/eLiteEs/skippy-term) | [eLiteEs/portfolio](https://github.com/eLiteEs/portfolio) |
+| [eLiteEs/url-lib](https://github.com/eLiteEs/url-lib) | [eLiteEs/duckos](https://github.com/eLiteEs/duckos) |
+| [eLiteEs/LoSDK](https://github.com/eLiteEs/LoSDK) | [eLiteEs/duckos-kernel](https://github.com/eLiteEs/duckos-kernel) |
+| [eLiteEs/realcoding](https://github.com/eLiteEs/realcoding) | [eLiteEs/duckos-limine](https://github.com/eLiteEs/duckos-limine) |
+| [eLiteEs/CatTerm](https://github.com/eLiteEs/CatTerm) | |
+| [eLiteEs/haboshdosh-closed](https://github.com/eLiteEs/haboshdosh-closed) | |
+| [eLiteEs/penalti-play](https://github.com/eLiteEs/penalti-play) | |
+| [eLiteEs/blasfdez](https://github.com/eLiteEs/blasfdez) | |
+| [eLiteEs/tablas-api](https://github.com/eLiteEs/tablas-api) | |
+| [eLiteEs/rayos2](https://github.com/eLiteEs/rayos2) | |
+| [eLiteEs/laqteos](https://github.com/eLiteEs/laqteos) | |
+| [eLiteEs/nt-tablas](https://github.com/eLiteEs/nt-tablas) | |
+| [eLiteEs/ark](https://github.com/eLiteEs/ark) | |
