@@ -18,7 +18,7 @@ Here you have a list of the things I did to my repositories
 | [eLiteEs/url-lib](https://github.com/eLiteEs/url-lib) | [eLiteEs/duckos](https://github.com/eLiteEs/duckos) |
 | [eLiteEs/LoSDK](https://github.com/eLiteEs/LoSDK) | [eLiteEs/duckos-kernel](https://github.com/eLiteEs/duckos-kernel) |
 | [eLiteEs/realcoding](https://github.com/eLiteEs/realcoding) | [eLiteEs/duckos-limine](https://github.com/eLiteEs/duckos-limine) |
-| [eLiteEs/CatTerm](https://github.com/eLiteEs/CatTerm) | |
+| [eLiteEs/CatTerm](https://github.com/eLiteEs/CatTerm) | [eLiteEs/RanaOS](https://github.com/eLiteEs/RanaOS) |
 | [eLiteEs/haboshdosh-closed](https://github.com/eLiteEs/haboshdosh-closed) | |
 | [eLiteEs/penalti-play](https://github.com/eLiteEs/penalti-play) | |
 | [eLiteEs/blasfdez](https://github.com/eLiteEs/blasfdez) | |
