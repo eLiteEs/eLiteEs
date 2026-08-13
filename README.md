@@ -25,5 +25,5 @@ Here you have a list of the things I did to my repositories
 | [eLiteEs/tablas-api](https://github.com/eLiteEs/tablas-api) | |
 | [eLiteEs/rayos2](https://github.com/eLiteEs/rayos2) | |
 | [eLiteEs/laqteos](https://github.com/eLiteEs/laqteos) | |
-| [eLiteEs/nt-tablas](https://github.com/eLiteEs/nt-tablas) | |
+| [eLiteEs/nt-tablas](https://github.com/eLiteEs/nt-tablas) (migrated to Codeberg) | |
 | [eLiteEs/ark](https://github.com/eLiteEs/ark) | |
